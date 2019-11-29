@@ -8,7 +8,9 @@
     - [python实现ftp上传下载](python/1.4.md)
     - [python实现rsa加密解密](python/1.5.md)
 - dns
+    - [bind配置管理工具rndc使用](dns/2.1.md)
 - linux
+    - [Makefile简单使用](linux/3.1.md)
 - 网络编程
 - 开发工具
     - [git创建本地分支并关联到远程](kit/5.1.md)
