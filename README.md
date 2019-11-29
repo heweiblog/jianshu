@@ -12,6 +12,7 @@
 - linux
     - [Makefile简单使用](linux/3.1.md)
 - 网络编程
+    - [http协议简介](net/4.1.md)
 - 开发工具
     - [git创建本地分支并关联到远程](kit/5.1.md)
     - [本地仓库与github仓库关联](kit/5.2.md)
