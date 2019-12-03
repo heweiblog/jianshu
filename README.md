@@ -19,3 +19,4 @@
     - [本地仓库与github仓库关联](kit/5.2.md)
 - c/c++
     - [glog简单实用](cpp/6.1.md)
+- go
