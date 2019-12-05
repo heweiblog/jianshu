@@ -19,5 +19,6 @@
     - [本地仓库与github仓库关联](kit/5.2.md)
 - c/c++
     - [glog简单实用](cpp/6.1.md)
+    - [C语言配置文件解析库—iniparser](cpp/6.2.md)
 - go
     - [go安装使用](go/7.1.md)
