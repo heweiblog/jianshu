@@ -11,6 +11,7 @@
     - [bind配置管理工具rndc使用](dns/2.1.md)
 - linux
     - [Makefile简单使用](linux/3.1.md)
+    - [mysql允许远程连接](linux/3.2.md)
 - 网络编程
     - [http协议简介](net/4.1.md)
     - [https简单介绍](net/4.2.md)
